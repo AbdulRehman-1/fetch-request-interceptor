@@ -8,13 +8,13 @@
 ## Install
 
 ```bash
-$ npm install --save react-fetch-interceptor
+$ npm install --save fetch-request-interceptor
 ```
 
 ## Usage
 ```
 import {useEffect} from 'react'
-import { createFetchInterceptor } from 'react-fetch-interceptor';
+import { createFetchInterceptor } from 'fetch-request-interceptor';
 
 function App() {
   
